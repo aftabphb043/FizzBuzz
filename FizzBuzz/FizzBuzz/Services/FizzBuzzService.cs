@@ -1,15 +1,9 @@
 ﻿using FizzBuzz.Interfaces;
-
+using FizzBuzz.Constants;
 namespace FizzBuzz.Services
 {
     public class FizzBuzzService : IFizzBuzzService
-    {
-        private const string Invalid_Item = "Invalid Item";
-        private const string Fizz_Buzz = "FizzBuzz";
-        private const string Fizz = "Fizz";
-        private const string Buzz = "Buzz";
-        private const int Divisor_Three = 3;
-        private const int Divisor_Five = 5;
+    {   
         /// <summary>
         /// This method of FizzBuzzService Class accept the array of input and process it and returns the response as per FizzBuzz rules.
         /// </summary>
@@ -22,29 +16,29 @@ namespace FizzBuzz.Services
             {
                 if (string.IsNullOrEmpty(value))
                 {
-                    results.Add(Invalid_Item);
+                    results.Add(FizzBuzzConstants.Invalid_Item);
                     continue;
                 }
                 if (!int.TryParse(value, out var number))
                 {
-                    results.Add(Invalid_Item);
+                    results.Add(FizzBuzzConstants.Invalid_Item);
                     continue;
                 }
-                if (number % Divisor_Three == 0 && number % Divisor_Five == 0)
+                if (number % FizzBuzzConstants.Divisor_Three == 0 && number % FizzBuzzConstants.Divisor_Five == 0)
                 {
-                    results.Add(Fizz_Buzz);
+                    results.Add(FizzBuzzConstants.Fizz_Buzz);
                 }
-                else if (number % Divisor_Three == 0)
+                else if (number % FizzBuzzConstants.Divisor_Three == 0)
                 {
-                    results.Add(Fizz);
+                    results.Add(FizzBuzzConstants.Fizz);
                 }
-                else if (number % Divisor_Five == 0)
+                else if (number % FizzBuzzConstants.Divisor_Five == 0)
                 {
-                    results.Add(Buzz);
+                    results.Add(FizzBuzzConstants.Buzz);
                 }
                 else
                 {
-                    results.Add($"Divided {number} by {Divisor_Three}\n Divided {number} by {Divisor_Five}");
+                    results.Add($"Divided {number} by {FizzBuzzConstants.Divisor_Three}\n Divided {number} by {FizzBuzzConstants.Divisor_Five}");
                 }
             }
             return results;

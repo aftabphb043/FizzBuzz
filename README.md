@@ -13,6 +13,7 @@ This FizzBuzz application built with ASP.NET Core that processes an array of val
 
 ## Project Structure
 
+- Contants: Contains the constants values.
 - Models: Contains the `FizzBuzzModel`
 - Interfaces: Contains the `IFizzBuzzService` interface.
 - Services: Contains the `FizzBuzzService` class which processes the values.
