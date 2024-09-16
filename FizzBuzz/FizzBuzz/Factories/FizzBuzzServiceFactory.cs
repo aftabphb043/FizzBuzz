@@ -5,7 +5,7 @@ namespace FizzBuzz.Factories
 {
     public class FizzBuzzServiceFactory
     {
-        public static IFizzBuzzService Craete()
+        public static IFizzBuzzService Create()
         {
             return new FizzBuzzService();
         }

@@ -1,4 +1,5 @@
-﻿using FizzBuzz.Interfaces;
+﻿using FizzBuzz.Factories;
+using FizzBuzz.Interfaces;
 using FizzBuzz.Models;
 using FizzBuzz.Services;
 using Microsoft.AspNetCore.Mvc;
@@ -11,8 +12,8 @@ namespace FizzBuzz.Controllers
     {
         private readonly IFizzBuzzService _fizzBuzzService;
         public FizzBuzzController(IFizzBuzzService fizzBuzzService)
-        {
-            _fizzBuzzService = fizzBuzzService;
+        {            
+            _fizzBuzzService = FizzBuzzServiceFactory.Create();
         }
 
         /// <summary>

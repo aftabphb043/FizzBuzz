@@ -4,6 +4,12 @@ namespace FizzBuzz.Services
 {
     public class FizzBuzzService : IFizzBuzzService
     {
+        private const string Invalid_Item = "Invalid Item";
+        private const string Fizz_Buzz = "FizzBuzz";
+        private const string Fizz = "Fizz";
+        private const string Buzz = "Buzz";
+        private const int Divisor_Three = 3;
+        private const int Divisor_Five = 5;
         /// <summary>
         /// This method of FizzBuzzService Class accept the array of input and process it and returns the response as per FizzBuzz rules.
         /// </summary>
@@ -16,33 +22,32 @@ namespace FizzBuzz.Services
             {
                 if (string.IsNullOrEmpty(value))
                 {
-                    results.Add("Invalid Item");
+                    results.Add(Invalid_Item);
                     continue;
                 }
                 if (!int.TryParse(value, out var number))
                 {
-                    results.Add("Invalid Item");
+                    results.Add(Invalid_Item);
                     continue;
                 }
-                if (number % 3 == 0 && number % 5 == 0)
+                if (number % Divisor_Three == 0 && number % Divisor_Five == 0)
                 {
-                    results.Add("FizzBuzz");
+                    results.Add(Fizz_Buzz);
                 }
-                else if (number % 3 == 0)
+                else if (number % Divisor_Three == 0)
                 {
-                    results.Add("Fizz");
+                    results.Add(Fizz);
                 }
-                else if (number % 5 == 0)
+                else if (number % Divisor_Five == 0)
                 {
-                    results.Add("Buzz");
+                    results.Add(Buzz);
                 }
                 else
                 {
-                    results.Add($"Divided {number} by 3\n Divided {number} by 5 ");
+                    results.Add($"Divided {number} by {Divisor_Three}\n Divided {number} by {Divisor_Five}");
                 }
             }
             return results;
         }
-
     }
 }
