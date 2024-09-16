@@ -1,13 +1,13 @@
 # FizzBuzz
 
-This FizzBuzz application built with ASP.NET Core that processes an array of values and returns specific output based in FizzBuzz rules.
+This FizzBuzz application built with ASP.NET Core that processes an array of values and returns specific output based on FizzBuzz rules.
 
 ## Features
 
 - Accept an array of values.
-- Outputs "Fizz" for multiple of 3.
-- Outputs "Bizz" for multiple of 5.
-- Outputs "FizzBuzz" for multiple of 3 and 5.
+- Output "Fizz" for multiple of 3.
+- Output "Bizz" for multiple of 5.
+- Output "FizzBuzz" for multiple of 3 and 5.
 - Output each division performed for non-multiple of 3 and 5.
 - Handles invalid values.
 
