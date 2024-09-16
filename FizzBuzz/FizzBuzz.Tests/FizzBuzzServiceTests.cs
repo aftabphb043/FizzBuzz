@@ -1,14 +1,16 @@
 namespace FizzBuzz.Tests;
 
+using FizzBuzz.Factories;
+using FizzBuzz.Interfaces;
 using FizzBuzz.Services;
 using Xunit;
 public class FizzBuzzServiceTests
 {
-    private readonly FizzBuzzService _service;
+    private readonly IFizzBuzzService _service;
 
     public FizzBuzzServiceTests()
     {
-        _service = new FizzBuzzService();
+        _service = FizzBuzzServiceFactory.Craete();
     }
     [Theory]
     [InlineData(new string[] {"1","3","5","","15","A","23"},new string[]

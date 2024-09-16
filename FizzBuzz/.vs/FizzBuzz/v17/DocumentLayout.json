@@ -7,24 +7,24 @@
       "RelativeMoniker": "D:0:0:{9DC13C86-7450-45F4-9CF3-E89F4445EE59}|FizzBuzz.Tests\\FizzBuzz.Tests.csproj|solutionrelative:fizzbuzz.tests\\fizzbuzzservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5769C04-EFCE-4922-A046-9B09EE819CB0}|FizzBuzz\\FizzBuzz.csproj|c:\\users\\a.d.alam\\onedrive - accenture\\desktop\\github\\fizzbuzz\\fizzbuzz\\fizzbuzz\\services\\fizzbuzzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5769C04-EFCE-4922-A046-9B09EE819CB0}|FizzBuzz\\FizzBuzz.csproj|solutionrelative:fizzbuzz\\services\\fizzbuzzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5769C04-EFCE-4922-A046-9B09EE819CB0}|FizzBuzz\\FizzBuzz.csproj|c:\\users\\a.d.alam\\onedrive - accenture\\desktop\\github\\fizzbuzz\\fizzbuzz\\fizzbuzz\\models\\fizzbuzzmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5769C04-EFCE-4922-A046-9B09EE819CB0}|FizzBuzz\\FizzBuzz.csproj|solutionrelative:fizzbuzz\\models\\fizzbuzzmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5769C04-EFCE-4922-A046-9B09EE819CB0}|FizzBuzz\\FizzBuzz.csproj|c:\\users\\a.d.alam\\onedrive - accenture\\desktop\\github\\fizzbuzz\\fizzbuzz\\fizzbuzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5769C04-EFCE-4922-A046-9B09EE819CB0}|FizzBuzz\\FizzBuzz.csproj|solutionrelative:fizzbuzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5769C04-EFCE-4922-A046-9B09EE819CB0}|FizzBuzz\\FizzBuzz.csproj|c:\\users\\a.d.alam\\onedrive - accenture\\desktop\\github\\fizzbuzz\\fizzbuzz\\fizzbuzz\\controllers\\fizzbuzzcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5769C04-EFCE-4922-A046-9B09EE819CB0}|FizzBuzz\\FizzBuzz.csproj|solutionrelative:fizzbuzz\\controllers\\fizzbuzzcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5769C04-EFCE-4922-A046-9B09EE819CB0}|FizzBuzz\\FizzBuzz.csproj|c:\\users\\a.d.alam\\onedrive - accenture\\desktop\\github\\fizzbuzz\\fizzbuzz\\fizzbuzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5769C04-EFCE-4922-A046-9B09EE819CB0}|FizzBuzz\\FizzBuzz.csproj|solutionrelative:fizzbuzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5769C04-EFCE-4922-A046-9B09EE819CB0}|FizzBuzz\\FizzBuzz.csproj|c:\\users\\a.d.alam\\onedrive - accenture\\desktop\\github\\fizzbuzz\\fizzbuzz\\fizzbuzz\\factories\\fizzbuzzservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5769C04-EFCE-4922-A046-9B09EE819CB0}|FizzBuzz\\FizzBuzz.csproj|solutionrelative:fizzbuzz\\factories\\fizzbuzzservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5769C04-EFCE-4922-A046-9B09EE819CB0}|FizzBuzz\\FizzBuzz.csproj|c:\\users\\a.d.alam\\onedrive - accenture\\desktop\\github\\fizzbuzz\\fizzbuzz\\fizzbuzz\\fizzbuzz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E5769C04-EFCE-4922-A046-9B09EE819CB0}|FizzBuzz\\FizzBuzz.csproj|solutionrelative:fizzbuzz\\fizzbuzz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E5769C04-EFCE-4922-A046-9B09EE819CB0}|FizzBuzz\\FizzBuzz.csproj|c:\\users\\a.d.alam\\onedrive - accenture\\desktop\\github\\fizzbuzz\\fizzbuzz\\fizzbuzz\\services\\fizzbuzzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5769C04-EFCE-4922-A046-9B09EE819CB0}|FizzBuzz\\FizzBuzz.csproj|solutionrelative:fizzbuzz\\services\\fizzbuzzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5769C04-EFCE-4922-A046-9B09EE819CB0}|FizzBuzz\\FizzBuzz.csproj|c:\\users\\a.d.alam\\onedrive - accenture\\desktop\\github\\fizzbuzz\\fizzbuzz\\fizzbuzz\\interfaces\\ifizzbuzzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5769C04-EFCE-4922-A046-9B09EE819CB0}|FizzBuzz\\FizzBuzz.csproj|solutionrelative:fizzbuzz\\interfaces\\ifizzbuzzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,60 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\a.d.alam\\OneDrive - Accenture\\Desktop\\github\\FizzBuzz\\FizzBuzz\\FizzBuzz\\Program.cs",
-              "RelativeDocumentMoniker": "FizzBuzz\\Program.cs",
-              "ToolTip": "C:\\Users\\a.d.alam\\OneDrive - Accenture\\Desktop\\github\\FizzBuzz\\FizzBuzz\\FizzBuzz\\Program.cs",
-              "RelativeToolTip": "FizzBuzz\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T05:03:12.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FizzBuzzController.cs",
-              "DocumentMoniker": "C:\\Users\\a.d.alam\\OneDrive - Accenture\\Desktop\\github\\FizzBuzz\\FizzBuzz\\FizzBuzz\\Controllers\\FizzBuzzController.cs",
-              "RelativeDocumentMoniker": "FizzBuzz\\Controllers\\FizzBuzzController.cs",
-              "ToolTip": "C:\\Users\\a.d.alam\\OneDrive - Accenture\\Desktop\\github\\FizzBuzz\\FizzBuzz\\FizzBuzz\\Controllers\\FizzBuzzController.cs",
-              "RelativeToolTip": "FizzBuzz\\Controllers\\FizzBuzzController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABrAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T04:59:00.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FizzBuzzService.cs",
-              "DocumentMoniker": "C:\\Users\\a.d.alam\\OneDrive - Accenture\\Desktop\\github\\FizzBuzz\\FizzBuzz\\FizzBuzz\\Services\\FizzBuzzService.cs",
-              "RelativeDocumentMoniker": "FizzBuzz\\Services\\FizzBuzzService.cs",
-              "ToolTip": "C:\\Users\\a.d.alam\\OneDrive - Accenture\\Desktop\\github\\FizzBuzz\\FizzBuzz\\FizzBuzz\\Services\\FizzBuzzService.cs",
-              "RelativeToolTip": "FizzBuzz\\Services\\FizzBuzzService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T04:51:25.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FizzBuzzModel.cs",
-              "DocumentMoniker": "C:\\Users\\a.d.alam\\OneDrive - Accenture\\Desktop\\github\\FizzBuzz\\FizzBuzz\\FizzBuzz\\Models\\FizzBuzzModel.cs",
-              "RelativeDocumentMoniker": "FizzBuzz\\Models\\FizzBuzzModel.cs",
-              "ToolTip": "C:\\Users\\a.d.alam\\OneDrive - Accenture\\Desktop\\github\\FizzBuzz\\FizzBuzz\\FizzBuzz\\Models\\FizzBuzzModel.cs",
-              "RelativeToolTip": "FizzBuzz\\Models\\FizzBuzzModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T04:49:53.712Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -96,26 +44,75 @@
               "RelativeDocumentMoniker": "FizzBuzz.Tests\\FizzBuzzServiceTests.cs",
               "ToolTip": "C:\\Users\\a.d.alam\\OneDrive - Accenture\\Desktop\\github\\FizzBuzz\\FizzBuzz\\FizzBuzz.Tests\\FizzBuzzServiceTests.cs",
               "RelativeToolTip": "FizzBuzz.Tests\\FizzBuzzServiceTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T06:06:56.757Z",
+              "WhenOpened": "2024-09-16T07:40:32.964Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a.d.alam\\OneDrive - Accenture\\Desktop\\github\\FizzBuzz\\FizzBuzz\\FizzBuzz\\Program.cs",
+              "RelativeDocumentMoniker": "FizzBuzz\\Program.cs",
+              "ToolTip": "C:\\Users\\a.d.alam\\OneDrive - Accenture\\Desktop\\github\\FizzBuzz\\FizzBuzz\\FizzBuzz\\Program.cs",
+              "RelativeToolTip": "FizzBuzz\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:40:02.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FizzBuzzServiceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\a.d.alam\\OneDrive - Accenture\\Desktop\\github\\FizzBuzz\\FizzBuzz\\FizzBuzz\\Factories\\FizzBuzzServiceFactory.cs",
+              "RelativeDocumentMoniker": "FizzBuzz\\Factories\\FizzBuzzServiceFactory.cs",
+              "ToolTip": "C:\\Users\\a.d.alam\\OneDrive - Accenture\\Desktop\\github\\FizzBuzz\\FizzBuzz\\FizzBuzz\\Factories\\FizzBuzzServiceFactory.cs",
+              "RelativeToolTip": "FizzBuzz\\Factories\\FizzBuzzServiceFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:38:23.398Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "FizzBuzz.csproj",
-              "DocumentMoniker": "C:\\Users\\a.d.alam\\OneDrive - Accenture\\Desktop\\github\\FizzBuzz\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
-              "RelativeDocumentMoniker": "FizzBuzz\\FizzBuzz.csproj",
-              "ToolTip": "C:\\Users\\a.d.alam\\OneDrive - Accenture\\Desktop\\github\\FizzBuzz\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
-              "RelativeToolTip": "FizzBuzz\\FizzBuzz.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-16T05:55:23.799Z"
+              "Title": "IFizzBuzzService.cs",
+              "DocumentMoniker": "C:\\Users\\a.d.alam\\OneDrive - Accenture\\Desktop\\github\\FizzBuzz\\FizzBuzz\\FizzBuzz\\Interfaces\\IFizzBuzzService.cs",
+              "RelativeDocumentMoniker": "FizzBuzz\\Interfaces\\IFizzBuzzService.cs",
+              "ToolTip": "C:\\Users\\a.d.alam\\OneDrive - Accenture\\Desktop\\github\\FizzBuzz\\FizzBuzz\\FizzBuzz\\Interfaces\\IFizzBuzzService.cs",
+              "RelativeToolTip": "FizzBuzz\\Interfaces\\IFizzBuzzService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:36:26.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FizzBuzzController.cs",
+              "DocumentMoniker": "C:\\Users\\a.d.alam\\OneDrive - Accenture\\Desktop\\github\\FizzBuzz\\FizzBuzz\\FizzBuzz\\Controllers\\FizzBuzzController.cs",
+              "RelativeDocumentMoniker": "FizzBuzz\\Controllers\\FizzBuzzController.cs",
+              "ToolTip": "C:\\Users\\a.d.alam\\OneDrive - Accenture\\Desktop\\github\\FizzBuzz\\FizzBuzz\\FizzBuzz\\Controllers\\FizzBuzzController.cs",
+              "RelativeToolTip": "FizzBuzz\\Controllers\\FizzBuzzController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T04:59:00.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FizzBuzzService.cs",
+              "DocumentMoniker": "C:\\Users\\a.d.alam\\OneDrive - Accenture\\Desktop\\github\\FizzBuzz\\FizzBuzz\\FizzBuzz\\Services\\FizzBuzzService.cs",
+              "RelativeDocumentMoniker": "FizzBuzz\\Services\\FizzBuzzService.cs",
+              "ToolTip": "C:\\Users\\a.d.alam\\OneDrive - Accenture\\Desktop\\github\\FizzBuzz\\FizzBuzz\\FizzBuzz\\Services\\FizzBuzzService.cs",
+              "RelativeToolTip": "FizzBuzz\\Services\\FizzBuzzService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T04:51:25.341Z",
+              "EditorCaption": ""
             }
           ]
         }

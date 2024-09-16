@@ -1,4 +1,5 @@
-﻿using FizzBuzz.Models;
+﻿using FizzBuzz.Interfaces;
+using FizzBuzz.Models;
 using FizzBuzz.Services;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,8 +9,8 @@ namespace FizzBuzz.Controllers
     [Route("[Controller]")]
     public class FizzBuzzController : ControllerBase
     {
-        private readonly FizzBuzzService _fizzBuzzService;
-        public FizzBuzzController(FizzBuzzService fizzBuzzService)
+        private readonly IFizzBuzzService _fizzBuzzService;
+        public FizzBuzzController(IFizzBuzzService fizzBuzzService)
         {
             _fizzBuzzService = fizzBuzzService;
         }

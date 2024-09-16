@@ -14,7 +14,9 @@ This FizzBuzz application built with ASP.NET Core that processes an array of val
 ## Project Structure
 
 - Models: Contains the `FizzBuzzModel`
+- Interfaces: Contains the `IFizzBuzzService` interface.
 - Services: Contains the `FizzBuzzService` class which processes the values.
+- Factories: Contains the `FizzBuzzServicefactory` class which create the instances of `FizzBuzzService`.
 - Controllers: Contains `FizzBuzzController` class which handles the API requests.
 - Tests: Contains Unit tests for the FizzBuzzService using xunit.
   

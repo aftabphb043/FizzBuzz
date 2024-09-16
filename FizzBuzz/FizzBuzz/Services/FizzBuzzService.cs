@@ -1,6 +1,8 @@
-﻿namespace FizzBuzz.Services
+﻿using FizzBuzz.Interfaces;
+
+namespace FizzBuzz.Services
 {
-    public class FizzBuzzService
+    public class FizzBuzzService : IFizzBuzzService
     {
         /// <summary>
         /// This method of FizzBuzzService Class accept the array of input and process it and returns the response as per FizzBuzz rules.
