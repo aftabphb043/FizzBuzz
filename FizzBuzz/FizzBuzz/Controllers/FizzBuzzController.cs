@@ -14,6 +14,11 @@ namespace FizzBuzz.Controllers
             _fizzBuzzService = fizzBuzzService;
         }
 
+        /// <summary>
+        /// FizzBuzz Post method accept array of values and returns the response as per the FizzBuzz rules.
+        /// </summary>
+        /// <param name="input"></param>
+        /// <returns></returns>
         [HttpPost]
         public IActionResult Post([FromBody] FizzBuzzModel input)
         {

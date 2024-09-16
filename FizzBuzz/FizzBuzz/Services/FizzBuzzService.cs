@@ -2,6 +2,11 @@
 {
     public class FizzBuzzService
     {
+        /// <summary>
+        /// This method of FizzBuzzService Class accept the array of input and process it and returns the response as per FizzBuzz rules.
+        /// </summary>
+        /// <param name="fizzBuzz"></param>
+        /// <returns></returns>
         public List<string> ProcessFizzBuzz(string[] fizzBuzz)
         {
             var results = new List<string>();

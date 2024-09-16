@@ -901,11 +901,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a.d.alam\\OneDrive - Accenture\\Desktop\\Coding-Excercise\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+      "projectUniqueName": "C:\\Users\\a.d.alam\\OneDrive - Accenture\\Desktop\\github\\FizzBuzz\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
       "projectName": "FizzBuzz",
-      "projectPath": "C:\\Users\\a.d.alam\\OneDrive - Accenture\\Desktop\\Coding-Excercise\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+      "projectPath": "C:\\Users\\a.d.alam\\OneDrive - Accenture\\Desktop\\github\\FizzBuzz\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
       "packagesPath": "C:\\Users\\a.d.alam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a.d.alam\\OneDrive - Accenture\\Desktop\\Coding-Excercise\\FizzBuzz\\FizzBuzz\\obj\\",
+      "outputPath": "C:\\Users\\a.d.alam\\OneDrive - Accenture\\Desktop\\github\\FizzBuzz\\FizzBuzz\\FizzBuzz\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\a.d.alam\\AppData\\Roaming\\NuGet\\NuGet.Config",
