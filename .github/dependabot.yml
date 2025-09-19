@@ -1,0 +1,18 @@
+version: 2
+updates:
+  - package-ecosystem: "nuget"
+    directory: "/FizzBuzz/FizzBuzz"
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 5
+    commit-message:
+      prefix: "fix: "
+      include: "scope"
+  - package-ecosystem: "nuget"
+    directory: "/FizzBuzz/FizzBuzz.Tests"
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 5
+    commit-message:
+      prefix: "fix: "
+      include: "scope"
